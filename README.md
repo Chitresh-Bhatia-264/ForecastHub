@@ -17,8 +17,3 @@ A minimalist weather app built to demonstrate clean code architecture, efficient
 - JavaScript
 - Weather API
 
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/weather-app.git
